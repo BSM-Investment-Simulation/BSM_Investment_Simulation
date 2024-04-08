@@ -1,8 +1,8 @@
 ---
-name: BVI Default Issue Template
-about: BVI 기본 이슈 템플릿입니다
+name: BIS Default Issue Template
+about: BIS 기본 이슈 템플릿입니다
 title: "[Development] (개발할 기능)"
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
