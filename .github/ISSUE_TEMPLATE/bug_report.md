@@ -7,8 +7,8 @@ assignees: rlawnsrud0509, sebanimm
 
 ---
 
-# 발생한 버그
+## 발생한 버그
 
-# 추가 설명
+## 추가 설명
 
-# 기타
+## 기타
